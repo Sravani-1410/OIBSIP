@@ -1,1 +1,40 @@
-FRUIT SHOP LANDING PAGE
+🍎 Fruit Shop Landing Page
+==============================
+This is a responsive and visually appealing landing page for a fictional Fruit Shop, built using **HTML5** and **CSS3** as part of the OIBSIP Internship.
+
+🌐 Live Demo
+--------------
+https://sravani-1410.github.io/OIBSIP_Landing_Page/
+
+🛠️ Features
+--------------
+- Responsive header with sticky navigation
+- Hero section with image and call-to-action button
+- About Us section with descriptive content and image
+- Product section showcasing a variety of fruits with pricing
+- Services section highlighting shop features
+- Embedded YouTube video for user engagement
+- Contact form for email submissions
+- Mobile responsive with media queries
+
+💻 Tech Stack
+--------------
+- **HTML5**
+- **CSS3**
+- Flexbox
+- Media Queries
+- Responsive Design Techniques
+
+🚀 How to Run Locally
+-------------------------
+1. Clone this repo:
+    ```bash
+    git clone https://github.com/Sravani-1410/OIBSIP.git
+
+2. Navigate to the project folder:
+    cd OIBSIP
+
+3. Open index.html in your browser
+
+-Author
+Sravani Katlagunta
