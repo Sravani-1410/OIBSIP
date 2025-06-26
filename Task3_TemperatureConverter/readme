@@ -1,9 +1,0 @@
-Temperature Converter
-Languages : Html, CSS, and Javascript
-IDE : Visual Studio
-
-Operation:
-1. You can enter temperature you want to convert
-2. select unit to convert it into Fahrenheit/Celsius/Kelvin
-3. Click Convert
-4. Result: Converted temperature will displayed
